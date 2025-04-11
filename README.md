@@ -14,12 +14,13 @@ Provides console feedback about the status of each email sent
 automatic_sending_translated.ipynb: Main notebook that contains all the logic for the automation process
 Folder structure:
 main_folder/
-├── client_1/
-│   └── files...
-├── client_2/
-│   └── files...
-└── ...
+- client_1/
+  - files...
+- client_2/
+  -files...
+- ...
 email_list_file.xlsx: Excel file mapping client names to their respective email addresses
+
 📈 Impact
 
 This automation brought a major productivity boost, transforming a manual and time-consuming process into a fast and reliable one. It's a great example of how Python can be applied to solve real business problems and improve operational efficiency.
@@ -28,6 +29,7 @@ This automation brought a major productivity boost, transforming a manual and ti
 
 Python 3
 pandas, smtplib, email, openpyxl libraries (install with pip install pandas openpyxl)
+
 ⚠️ Note
 
 All sensitive information such as email addresses and credentials were removed or hidden for privacy reasons.
