@@ -19,6 +19,7 @@ main_folder/
 - client_2/
   - files...
 - ...
+
 email_list_file.xlsx: Excel file mapping client names to their respective email addresses
 
 📈 Impact
