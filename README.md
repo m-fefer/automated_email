@@ -9,6 +9,7 @@ Matches each client to their email address based on an Excel list
 Customizes the subject and body of each email
 Sends emails in bulk with a short delay between each to prevent issues
 Provides console feedback about the status of each email sent
+
 📂 Files and Structure
 
 automatic_sending_translated.ipynb: Main notebook that contains all the logic for the automation process
