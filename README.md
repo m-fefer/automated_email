@@ -1,5 +1,3 @@
-Automated Email Sending Tool
-
 This project automates the process of sending customized emails with attachments, significantly reducing the time required for routine communication tasks. Originally designed to streamline a repetitive workflow in a professional setting, it cut down a process that used to take over 5 hours to just around 1 minute.
 
 🔧 What It Does
