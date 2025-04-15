@@ -7,7 +7,6 @@ This project automates the process of sending customized emails with attachments
 Automatically zips specific folders containing files for different clients
 Matches each client to their email address based on an Excel list
 Customizes the subject and body of each email
-Sends emails in bulk with a short delay between each to prevent issues
 Provides console feedback about the status of each email sent
 
 📂 Files and Structure
