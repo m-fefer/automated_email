@@ -101,9 +101,9 @@ python envio_automatico.py
 Exemplo de saída:
 
 ```
-Arquivos de ACME COMERCIO LTDA compactados em: ...
+Arquivos de ALFA COMERCIO LTDA compactados em: ...
 Arquivos de BETA RESTAURANTE compactados em: ...
-E-mail enviado para ACME COMERCIO LTDA com email: ['financeiro@acmecomercio.com']
+E-mail enviado para ALFA COMERCIO LTDA com email: ['financeiro@alfacomercio.com']
 E-mail enviado para BETA RESTAURANTE com email: ['adm@betarestaurante.com.br']
 ZIP não encontrado para SIGMA ACADEMIA, pulando.
 ```
@@ -118,7 +118,7 @@ O repositório já inclui uma estrutura de exemplo com dados fictícios em `exem
 exemplo/relatorios/
 └── 2026/
     └── 01 - JANEIRO/
-        ├── ACME COMERCIO LTDA/
+        ├── ALFA COMERCIO LTDA/
         ├── BETA RESTAURANTE/
         ├── GAMA INDUSTRIA SA/
         ├── DELTA LAVANDERIA/
