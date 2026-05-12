@@ -1,0 +1,3 @@
+[ARQUIVO DE TESTE]
+Cliente: GAMA INDUSTRIA SA
+Arquivo: RECIBO - GAMA - JAN26.txt

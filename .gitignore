@@ -1,0 +1,16 @@
+# Variáveis de ambiente e credenciais
+.env
+
+# ZIPs gerados
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
